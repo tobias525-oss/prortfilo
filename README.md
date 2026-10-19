@@ -6,3 +6,4 @@ this is like Weird mickey Mouse recreation with parts of code. this was my first
 
 <img width="1152" height="720" alt="pattern" src="https://github.com/user-attachments/assets/b5a095eb-325f-4d4a-9cf6-730f7a6259fe" />
 
+this was when me and my team was making a idea for an app for our assignment for class
